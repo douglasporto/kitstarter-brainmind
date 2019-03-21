@@ -1,0 +1,24 @@
+a {
+  cursor: pointer;
+}
+.card-body {
+  img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center;
+  }
+}
+.dropdown-item {
+  cursor: pointer;
+}
+.navbar-brand {
+  img {
+    max-width: 180px;
+  }
+  b {
+    img {
+      max-width: 40px;
+    }
+  }
+}

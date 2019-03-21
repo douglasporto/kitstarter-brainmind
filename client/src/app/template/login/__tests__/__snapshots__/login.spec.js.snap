@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Login.vue Renders Login 1`] = `
+<section id="wrapper">
+  <div class="login-register" style="background-image: url(undefinedimages/background/login-register.jpg);">
+    <div class="login-box card">
+      <div class="card-body">
+        <div id="loginform" class="form-horizontal form-material">
+          <h3 class="box-title m-b-20">Login</h3>
+          <div class="form-group ">
+            <div class="col-xs-12"><input name="email" type="text" placeholder="E-mail" class="form-control" aria-required="true" aria-invalid="false">
+              <!---->
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+`;
